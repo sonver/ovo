@@ -1,0 +1,41 @@
+"""Compatibility shim for the consolidated single-file EggInfer module."""
+
+from EggInfer import (
+    HEADER_FORMAT,
+    HEADER_SIZE,
+    LEGACY_HEADER_FORMAT,
+    LEGACY_HEADER_SIZE,
+    LEGACY_MAGIC,
+    LEGACY_NONCE_LEN,
+    LEGACY_TAG_LEN,
+    LEGACY_VERSION,
+    MAGIC,
+    NONCE_LEN,
+    PBKDF2_ITERATIONS,
+    SALT_LEN,
+    VERSION,
+    decrypt_bytes,
+    decrypt_file,
+    encrypt_bytes,
+    encrypt_file,
+)
+
+__all__ = [
+    "HEADER_FORMAT",
+    "HEADER_SIZE",
+    "LEGACY_HEADER_FORMAT",
+    "LEGACY_HEADER_SIZE",
+    "LEGACY_MAGIC",
+    "LEGACY_NONCE_LEN",
+    "LEGACY_TAG_LEN",
+    "LEGACY_VERSION",
+    "MAGIC",
+    "NONCE_LEN",
+    "PBKDF2_ITERATIONS",
+    "SALT_LEN",
+    "VERSION",
+    "decrypt_bytes",
+    "decrypt_file",
+    "encrypt_bytes",
+    "encrypt_file",
+]
