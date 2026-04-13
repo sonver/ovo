@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="Flask">
+    <option name="enabled" value="true" />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/json_result" />
+      <excludeFolder url="file://$MODULE_DIR$/model_trained" />
+      <excludeFolder url="file://$MODULE_DIR$/resnet" />
+      <excludeFolder url="file://$MODULE_DIR$/predictions" />
+      <excludeFolder url="file://$MODULE_DIR$/results" />
+      <excludeFolder url="file://$MODULE_DIR$/preview" />
+      <excludeFolder url="file://$MODULE_DIR$/data_hlh" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN" />
+      <excludeFolder url="file://$MODULE_DIR$/data_jinfeng" />
+      <excludeFolder url="file://$MODULE_DIR$/data_hlh_train" />
+      <excludeFolder url="file://$MODULE_DIR$/PLS_DA_Results" />
+      <excludeFolder url="file://$MODULE_DIR$/data_jinghong_12" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_200epoch" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_200epoch_SNV" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_200epoch_SNV_MEAN_CENTER" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_model_origin" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_FR97_MP94" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_FR97_MP94_Mixed" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_MIX_811_97VER" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_MIX_715_97VER_FLOSS" />
+      <excludeFolder url="file://$MODULE_DIR$/data_hlh_train_20250907_hy" />
+      <excludeFolder url="file://$MODULE_DIR$/gray" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_huayu0h_715_97VER_FLOSS" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_huayu_715_97VER_FLOSS" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_huayu_MIX_715_97VER_FLOSS" />
+      <excludeFolder url="file://$MODULE_DIR$/1DCNN_SNV_HLH_VC_huayu_715_GUS_97VER_FLOSS" />
+      <excludeFolder url="file://$MODULE_DIR$/TRAIN_RESULT" />
+      <excludeFolder url="file://$MODULE_DIR$/B_TRAIN_RESULT" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 (Code_EggGenderDet)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/train/module_dataset" />
+        <option value="$MODULE_DIR$/train/excel_preprocess" />
+        <option value="$MODULE_DIR$/train/1_image_preprocess" />
+        <option value="$MODULE_DIR$/train" />
+        <option value="$MODULE_DIR$/tools" />
+        <option value="$MODULE_DIR$/temp_hsi_process" />
+      </list>
+    </option>
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+  </component>
+</module>
